@@ -1,5 +1,5 @@
-# Power-BI_HR-data-analytics
-I have worked on a HR data analytics dashboard.
+# HR-data-analytics
+The data analysis work is done by using power BI on a HR data.
 
 Objective:
 1) Identifying the number of employees who are in due for promotion and not due for promotion based on their years of service.
